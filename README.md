@@ -1,0 +1,1 @@
+This project is to learn and practicing concepts about JavaServerFaces
